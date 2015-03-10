@@ -35,4 +35,4 @@ Additional Help
 2. The second param to Stream is the output function. This usually controls the head.
 3. The third param to Stream is the stepper.
 
-##Part 2: Re create the stream in a programming language you have never used before.
+##Part 2: Re create the stream in a programming language you have never used before
