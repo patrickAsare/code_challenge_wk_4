@@ -1,4 +1,4 @@
-# code_challenge_wk_4
+# Code Challenge Week 4
 Challenge for the week starting 9th March 2015
 
 In computer science, a stream is a sequence of data elements made available over time. A stream can be thought of as items on a conveyor belt being processed one at a time rather than in large batches. Streams commonly consist of a head method to output the first value and a tail method to get the rest of the values minus the head. 
